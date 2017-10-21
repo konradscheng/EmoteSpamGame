@@ -55,7 +55,6 @@ img {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: lightgreen;
   text-shadow: -1px -1px 0 #000;
   width: 100%;
   display: flex;
@@ -100,23 +99,23 @@ img {
 }
 
 .jumbotron-demo1 {
-  background-image: url("../../resources/images/jumbotron-demo1.jpg");
+  background-image: url("../../resources/images/demo1.png");
   height: 500px;
 }
 
 .jumbotron-demo2 {
-  background-image: url("../../resources/images/jumbotron-demo2.jpg");
+  background-image: url("../../resources/images/demo2.png");
   height: 500px;
 }
 
 .jumbotron-demo3 {
-  background-image: url("../../resources/images/jumbotron-demo3.jpg");
+  background-image: url("../../resources/images/demo3.png");
   height: 500px;
 }
 
 .jumbotron-demo4 {
-  background-image: url("../../resources/images/jumbotron-demo4.jpg");
-  height: 500px;
+  background-image: url("../../resources/images/demo4.png");
+  height: 700px;
 }
 
 @media only screen and (max-width: 768px) {
